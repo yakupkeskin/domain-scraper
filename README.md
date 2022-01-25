@@ -16,13 +16,6 @@ Bazı istekler çok vakit aldığı için burada thread kullandım. Bu sayede is
 Bulunan subdomainler mysql veritabanına ve found.txt dosyasına yazılır.
 
 
-
-
-
-
-
-
-
 #Whois Parser:
 
 Whois kütüphanesi kullandım.
@@ -30,13 +23,6 @@ Whois kütüphanesi kullandım.
 Bulunup found.txt'ye yazılmış subdomainler üzerinde çalıştırıldı.
 
 Raw data, creation_date, expiration_date, company_name,regitrar alanlarını database'e yazıldı.
-
-
-
-
-
-
-
 
 #Flask App:
 
