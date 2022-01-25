@@ -18,7 +18,7 @@ Bulunan subdomainler mysql veritabanına ve found.txt dosyasına yazılır.
 
 #Whois Parser:
 
-Whois kütüphanesi kullandım.
+Whois kütüphanesi kullanıldı.
 
 Bulunup found.txt'ye yazılmış subdomainler üzerinde çalıştırıldı.
 
